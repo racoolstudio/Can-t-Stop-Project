@@ -1,0 +1,26 @@
+Dear Marker,
+
+- The board is made of panels so there is not functionality in clicking on it,
+however the buttons by the dices let you choose your columns. 
+
+- We have load/save and AI implemented. 
+
+- For color deficiency settings, we decided to avoid making different settings
+as not to stigmatize the players, and we instead did our best to make the 
+game accessible. We have made the board red with a blue background, since red
+and blue are combinations that the majority of colour blind individuals can
+tell apart, as well as a white border on the edge just in case the red and 
+blue are not clear (we researched this!). 
+
+- We also allowed for shapes and colors seperately so that the pieces could 
+still be identifiable regardless of color.
+
+- Panels are sized for full screen, so please resize the window to full screen
+when you get to the board.
+
+- When a players name has a white background, that means it is their turn. Turn
+order is displayed at the start of the game.
+
+Thank you,
+From Group 8 :)
+

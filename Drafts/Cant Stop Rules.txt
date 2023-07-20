@@ -1,0 +1,71 @@
+Goal:
+The goal of this game is to “claim” three of the game board’s numbered columns. 
+You claim a column if you can move one of your runners (white arrows) from the 
+bottom of that column to the top, according to the rules of  the game. As soon as
+any player claims three columns, they win the game.
+
+Setup: 
+Following the setup menu, each player must select their piece shape, color, and 
+enter their name. Note that each criteria must be unique for the game to begin.
+Prior to starting, dices are rolled for each player and turn order will be shown
+before starting. When a players name has a white background, then it is their 
+turn to play.
+
+On your turn:
+Each turn you are allowed three runners. Your goal during your turn is to advance
+as far as you can up one, two, or three columns. You’ll use the white cubes to 
+mark your progress during your turn. After every roll you’ll need to decide 
+whether to stop and keep your progress, or try to advance even further – at the 
+risk of losing your progress.
+
+Rolling: 
+Selecting the Roll Dice button will roll a combination for your turn. Roll all 
+four dice, then combine them into two pairs, any way you wish.
+Example:If you roll 3, 4, 2, 6, then you can make these combinations:
+- 3+4 and 2+6 (7 and 8)
+- 3+2 and 4+6 (5 and 10)
+- 3+6 and 4+2 (9 and 6)
+
+Having thus chosen two sums between 2 and 12, advance a white cube in those 
+columns, according to these rules:
+- If you have already placed a white cube in that column (on an earlier roll 
+during this same turn), advance it one space.
+- If one of the three white cubes is not on the board yet, place it in that 
+column:
+  - If you have a cube of your color in that column (from a previous turn), place
+ the white cube one space ahead of it.
+  - Otherwise, place the white cube in the bottom space of that column.
+- Other players’ cubes, if already on a space, can share that space with a white
+cube.
+Once you play a white cube in a column, it stays in that column until your turn 
+ends. You cannot move a white cube from one column to another, nor can you remove
+it from the board during your turn. As the game progresses, you’ll often find 
+that you can only legally make one move, rather than two. This is OK. However, 
+you must always play to as many columns as your roll allows; you can’t choose to
+ignore dice that allow a legal move. If your roll allows it, you can play twice 
+in a single column. For example, if you roll 2, 4, 4, 6, you could make two moves
+in column 8 (4+4 and 2+6), if available. 
+After every dice roll, you are met with the option to roll again or end your turn.
+
+Ending a turn:
+If you choose to end your turn, the runners are replaced with your own pieces. If
+you already have a piece on any of these columns, just move them up to their new
+positions. (Yes, several players’ pieces can occupy the same space.) Then pass 
+the dice and the white cubes to the player on your left; it is now their turn.
+
+Going bust:
+To continue your turn, you must place or advance at least one white cube on the
+board, according to the rules above, after rolling the four dice. If you cannot
+legally place or advance any white cubes using your roll, you have gone bust. You
+do not get to advance any of your cubes this turn and your turn is over. 
+
+Claiming a column:
+If you have moved a runner to the top of a column (on the numbered square) when
+you choose to end your turn, then you have claimed that column. Put your own
+piece on that space and all other players pieces are removed. For the rest of the
+game, no player can place a piece in that column. That goes for you, too! That 
+column’s number has effectively ceased to exist. Play accordingly. If you end 
+your turn with three columns claimed, you have won the game. 
+
+
+

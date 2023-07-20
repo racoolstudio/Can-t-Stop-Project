@@ -1,0 +1,38 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "StartUp",
+      "request": "launch",
+      "mainClass": "StartUp",
+      "projectName": "Code_cb730b24"
+    },
+    {
+      "type": "java",
+      "name": "Game",
+      "request": "launch",
+      "mainClass": "Game",
+      "projectName": "Code_cb730b24"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "r:/CS_2005/comp2005-winter23-group8/Drafts/Code",
+      "program": "r:/CS_2005/comp2005-winter23-group8/Drafts/Code/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
