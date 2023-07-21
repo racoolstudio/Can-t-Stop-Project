@@ -34,4 +34,3 @@ As this is an academic project repository, contributions from outside the group 
 
 Thank you for visiting our Can't Stop Board Game project repository! Enjoy exploring the code and learning more about our project.
 
-*Note: Images and specific details used in this README are placeholders and do not represent the actual project.*
