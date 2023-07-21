@@ -7,7 +7,6 @@ Welcome to the Can't Stop Board Game project repository! This project was develo
 ## Technologies Used
 - Java
 - JSwing (Java's library for GUI)
-- JUnit (for unit testing)
 - Agile Software Development Cycle
 - GitHub (for version control and collaboration)
 
