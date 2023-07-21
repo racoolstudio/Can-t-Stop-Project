@@ -21,9 +21,6 @@ To play the Can't Stop Board Game, you can follow these steps:
 3. Compile and run the game application.
 4. Follow the on-screen instructions to play the game.
 
-## Unit Testing
-We implemented unit testing using JUnit to ensure the functionality and reliability of the application. Test cases were developed and applied throughout the development process to identify and fix any issues or bugs.
-
 ## Repository Status
 This repository was created for our academic group project and the cooperative internship program. It is currently publicly available to showcase our work and skills during this period. However, as part of our commitment to safeguarding sensitive information and intellectual property, the repository will be made private after the cooperative internship program concludes. 
 
