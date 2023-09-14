@@ -1,6 +1,0 @@
-
-To compile program 
-Javac *.java
-
-To Run program
-java StartUP
